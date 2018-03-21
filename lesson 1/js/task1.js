@@ -27,7 +27,7 @@ if(openPar===closePar)
 alert("string is ok")
 }
 
-var a=document.getElementById("act");
+
 document.getElementById("act").addEventListener("click", result);
 
 }
