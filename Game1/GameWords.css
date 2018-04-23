@@ -1,0 +1,9 @@
+td {
+    text-align: center; 
+   }
+
+table{
+    position: absolute;
+    margin-top: 30px;
+    width: 400px;
+}
