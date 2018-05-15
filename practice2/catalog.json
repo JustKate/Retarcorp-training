@@ -1,0 +1,46 @@
+[{
+    "author":{"name":"Alex", 
+              "avatar":"http://logic-toys.ru/images/thumb/83/109076-0.jpeg",
+              "link":"https://ru.wikipedia.org"},
+    "content": "<p><strong>Lorem Ipsum</strong>is simply dummy text of the printing and typesetting industry.</p>",
+    "postLiks": 0,
+    "postId": 1,
+    "comments": [{"commentator":"Bob",
+                  "imageOfCommentator":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-uv4eDyHubljhg19xZWRU34vnB-0bxCfL9f71y1tDdw6F1j7",
+                  "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut",
+                  "link":"https://ru.wikipedia.org",
+                  "liks":0
+                },
+        
+                  {"commentator":"Jim", 
+                   "imageOfCommentator":"https://static.my-shop.ru/product/0/259/2585493_128.jpg",
+                   "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut",
+                   "link":"https://ru.wikipedia.org",
+                   "liks":0}
+                ]
+    
+
+},
+{
+    "author":{"name":"Alis", 
+      "avatar":"https://www.dignitasteam.com/wp-content/uploads/2015/09/maxresdefault.jpg",
+      "link":"https://ru.wikipedia.org"},
+    "content": "<p><strong>Lorem Ipsum</strong>is simply dummy text of the printing and typesetting industry.</p>",
+    "postLiks": 0,
+    "postId": 2,
+    "comments": [{"commentator":"Kate",
+                  "imageOfCommentator":"http://logic-toys.ru/images/thumb/42/149887-0.jpg",
+                  "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut",
+                  "link":"https://ru.wikipedia.org",
+                  "liks":0},
+
+                {"commentator":"Sam", 
+                 "imageOfCommentator":"http://logic-toys.ru/images/thumb/83/109076-0.jpeg",
+                 "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut",
+                 "link":"https://ru.wikipedia.org",
+                 "liks":0}
+                ]
+    
+
+}] 
+

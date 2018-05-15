@@ -1,0 +1,72 @@
+<!DOCTYPE html> 
+<html>     
+    <head>
+        <meta charset="utf-8"> 
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </head>   
+<body>         
+    <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4 content"> 
+         
+            <div class="panel panel-success">
+                <div class="panel-heading"><img src="http://www.imgworlds.com/wp-content/themes/IMG/img/phase3/welcome/trex.png"  class="img-circle avatar" width="80" height="80">  Panel heading</div>
+                <div class="panel-body">
+                  <p>...</p>
+                  <a href="https://ru.wikipedia.org">User Link</a>
+                  <br>
+                  <button class="btn btn-xs btn-primary" type="button">
+                    Like <span class="badge">4</span>
+                  </button>
+                  <button class="btn btn-xs btn-warning" type="button">
+                    Coments <span class="badge">4</span>
+                  </button>
+                </div>
+
+                <ul class="list-group comment-list" >
+                  <li class="list-group-item">
+                    <div class="panel panel-default">
+                        <div class="panel-heading"><img src="http://www.imgworlds.com/wp-content/themes/IMG/img/phase3/welcome/trex.png"  class="img-circle avatar" width="30" height="30">Panel heading without title</div>
+                        <div class="panel-body">
+                          Panel content
+                          <br>
+                          <a href="https://ru.wikipedia.org">User Link</a>
+                          <br>
+                          <button class="btn btn-xs btn-primary" type="button">
+                            Like <span class="badge">4</span>
+                          </button>
+                        </div>
+                      </div>
+                  </li>
+                  <li class="list-group-item">
+                    Add Comment
+                  <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" class="form-control" placeholder="Username" id="name">
+                    <br>
+                    <label for="lin">Comment link:</label>
+                    <input type="text" class="form-control" placeholder="Link" id="lin">
+                    <br>
+                    <label for="ava">URL:</label>
+                    <input type="text" class="form-control" placeholder="Avatar URL" id="ava">
+                    <br>
+                    <label for="comment">Comment:</label>
+                    <textarea class="form-control" rows="3" id="comment"></textarea>
+                  </div>
+                  </li>
+                  
+                </ul>
+              </div>
+           
+        </div>
+    </div>
+   
+    <div class="col-sm-4"> </div>
+   
+   
+    
+</body>
+<script src='site.js'></script>
+</html> 
